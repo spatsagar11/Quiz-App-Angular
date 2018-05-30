@@ -1,0 +1,12 @@
+<main style="margin-top:3%;" role="main" class="container">
+  <div class="jumbotron">
+    <div *ngFor="let x of topic;">
+      <h1><strong>{{x.topicName}}</strong> QUIZ</h1><br>
+      <p class="lead">This level assessment Quiz, which only takes a few minutes to complete, will give you an      approximate idea of your knowledge in Web Technologies.<br><br>
+        You can take this test in three levels of difficulty: beginner, intermediate and difficult. You can start with the easiest level, or take a more difficult quiz directly.</p><br><br>
+      <a class="btn btn-lg btn-primary" routerLink="/topics/{{x.topicId}}/quiz/beginner" routerLinkActive="active" role="button">BEGINNER</a>
+      <a class="btn btn-lg btn-success" routerLink="/topics/{{x.topicId}}/quiz/intermediate" routerLinkActive="active" role="button">INTERMEDIATE</a>
+      <a class="btn btn-lg btn-danger" routerLink="/topics/{{x.topicId}}/quiz/difficult" routerLinkActive="active" role="button">DIFFICULT</a>  
+    </div>
+  </div>
+</main>

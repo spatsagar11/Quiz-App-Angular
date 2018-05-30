@@ -1,0 +1,36 @@
+<main style="margin-top:3%;" role="main" class="container">
+
+    <div class="jumbotron">
+
+        <div *ngFor="let x of data; let i = index;">
+            <div *ngIf="i == ind">
+
+            <h2>
+                <strong>{{i + 1}}.&nbsp;&nbsp;{{x.question}}</strong>
+            </h2>
+            <br>
+                    <div *ngFor="let y of x.options; let j = index;">
+                        <div class="radio">
+                            <label>
+                            <input type="radio" [(ngModel)]="myradio" name="{{'myradio'+j}}" id="{{'myradio'+j}}" value="{{y}}">&nbsp;&nbsp;&nbsp;&nbsp;{{y}}</label>
+                        </div>
+                        
+                    </div>
+                <br>
+                <button class="btn btn-lg btn-success" [disabled]="!myradio" (click)="showAnswer(myradio,x.answer)">CHECK ANSWER</button>
+                <a class="btn btn-lg btn-primary" (click) = "prev()"  role="button">PREV &laquo;</a>
+                <a class="btn btn-lg btn-primary" (click) = "next()"  role="button">NEXT &raquo;</a>
+                <br>
+                <br>
+                <div *ngIf="isCorrect" class="alert alert-success pos" role="alert">
+                        CORRECT ANSWER!!!
+                    </div>
+                    <div *ngIf="isWrong" class="alert alert-danger pos" role="alert">
+                        WRONG ANSWER!!!
+                </div>
+            </div>
+        </div>
+        <h1> Total Score: {{count}} out of 5</h1>
+
+    </div>
+</main>

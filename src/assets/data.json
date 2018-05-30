@@ -1,0 +1,62 @@
+[	
+	{
+		"topicId": 1,
+		"topicName": "HTML"
+	},
+
+	{
+		"topicId": 2,
+		"topicName": "CSS"
+	},
+
+	{
+		"topicId": 3,
+		"topicName": "JAVASCRIPT"
+	},
+
+	{
+		"topicId": 4,
+		"topicName": "BOOTSTRAP"
+  	},
+
+	{
+		"topicId": 5,
+		"topicName": "ANGULAR"
+	},
+
+	{
+		"topicId": 6,
+		"topicName": "NODE.JS"
+  	},
+
+	{
+		"topicId": 7,
+		"topicName": "REACT.JS"
+	},
+
+	{
+		"topicId": 8,
+		"topicName": "ANGULAR.JS"
+  	},
+
+	{
+		"topicId": 9,
+		"topicName": "TYPESCRIPT"
+	},
+
+	{
+		"topicId": 10,
+		"topicName": "ES6"
+  	},
+
+	{
+		"topicId": 11,
+		"topicName": "JQUERY"
+	},
+	
+	{
+		"topicId": 12,
+		"topicName": "IONIC"
+  	}
+
+]

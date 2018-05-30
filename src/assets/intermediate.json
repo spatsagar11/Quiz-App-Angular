@@ -1,0 +1,702 @@
+[
+	{
+		"topicId": 1,
+		"topicName": "HTML",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "HTML Stands for _____________?",
+		"options": [
+			"Hyper Text Makeup Language",
+			"Hyper Text Markup Language",
+			"Hyper Tech Markup Language",
+			"None of these"
+		],
+		"answer": "Hyper Text Markup Language"
+	},
+	{
+		"topicId": 1,
+		"topicName": "HTML",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "HTML is considered as _________ language?",
+		"options": [
+			"Higher Level Language",
+			"Markup Language",
+			"OOP Language",
+			"Programming Language"
+		],
+		"answer": "Markup Language"
+	},
+	{
+		"topicId": 1,
+		"topicName": "HTML",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "HTML markup language is a set of Markup ___________?",
+		"options": [
+			"Tag",
+			"Attribute",
+			"Groups",
+			"Sets"
+		],
+		"answer": "Tag"
+	},
+	{
+		"topicId": 1,
+		"topicName": "HTML",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "HTML tags are used to describe document ___________?",
+		"options": [
+			"Definition",
+			"Language",
+			"Content",
+			"None_ of these"
+		],
+		"answer": "Content"
+	},
+	{
+		"topicId": 1,
+		"topicName": "HTML",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "HTML Document can contain ______________.?",
+		"options": [
+			"Attributes",
+			"Tags",
+			"Plain Text",
+			"All of these"
+		],
+		"answer": "All of these"
+	},
+	{
+		"topicId": 2,
+		"topicName": "CSS",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Which of the following selector matches a element based on its id?",
+		"options": [
+			"The Id Selector",
+			"The Universal Selector",
+			"The Descendant Selector",
+			"The Class Selector"
+		],
+		"answer": "The Id Selector"
+	},
+	{
+		"topicId": 2,
+		"topicName": "CSS",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Which of the following property is used to control the repetition of an image in the background?",
+		"options": [
+			"background-color",
+			"background-image",
+			"background-repeat",
+			"background-position"
+		],
+		"answer": "background-repeat"
+	},
+	{
+		"topicId": 2,
+		"topicName": "CSS",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following property is used to align the text of a document?",
+		"options": [
+			"text-indent",
+			"text-align",
+			"text-decoration",
+			"text-transform"
+		],
+		"answer": "text-align"
+	},
+	{
+		"topicId": 2,
+		"topicName": "CSS",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Which of the following property is used to capitalize text or convert text to uppercase or lowercase letters?",
+		"options": [
+			"text-indent",
+			"text-align",
+			"text-decoration",
+			"text-transform"
+		],
+		"answer": "text-transform"
+	},{
+		"topicId": 2,
+		"topicName": "CSS",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Which of the following property of a table element specifies the width that should appear between table cells?",
+		"options": [
+			"border-collapse",
+			"border-spacing",
+			"caption-side",
+			"empty-cells"
+		],
+		"answer": "border-spacing"
+	},	
+	{
+		"topicId": 3,
+		"topicName": "JAVASCRIPT",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Is JavaScript a case-sensitive language?",
+		"options": [
+			"True",
+			"False",
+			"xxx",
+			"xxx"
+		],
+		"answer": "True"
+	},
+	{
+		"topicId": 3,
+		"topicName": "JAVASCRIPT",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Which of the following type of variable is visible only within a function where it is defined?",
+		"options": [
+			"global variable",
+			"local variable",
+			"Both of the above.",
+			"None of the above"
+		],
+		"answer": "local variable"
+	},
+	{
+		"topicId": 3,
+		"topicName": "JAVASCRIPT",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following function of String object extracts a section of a string and returns a new string?",
+		"options": [
+			"slice()",
+			"split()",
+			"replace()",
+			"search()"
+		],
+		"answer": "slice()"
+	},
+	{
+		"topicId": 3,
+		"topicName": "JAVASCRIPT",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Which built-in method sorts the elements of an array?",
+		"options": [
+			"order()",
+			"changeOrder(order)",
+			"sort()",
+			"None of the above."
+		],
+		"answer": "sort()"
+	},
+	{
+		"topicId": 3,
+		"topicName": "JAVASCRIPT",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Which of the following function of Array object creates a new array with the results of calling a provided function on every element in this array?",
+		"options": [
+			"push()",
+			"join()",
+			"pop()",
+			"map()"
+		],
+		"answer": "map()"
+	},
+	{
+		"topicId": 4,
+		"topicName": "BOOTSTRAP",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Which of the following class styles a table with borders surrounding every element and rounded corners around the entire table?",
+		"options": [
+			".table",
+			".table-striped",
+			".table-bordered",
+			".table-hover"
+		],
+		"answer": ".table-bordered"
+	},
+	{
+		"topicId": 4,
+		"topicName": "BOOTSTRAP",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Which of the following class is required to be added to form tag to make it inline?",
+		"options": [
+			".inline",
+			".form-inline",
+			".horizontal",
+			"None of the above"
+		],
+		"answer": ".form-inline"
+	},
+	{
+		"topicId": 4,
+		"topicName": "BOOTSTRAP",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following bootstrap style of button makes the button size small?",
+		"options": [
+			".btn-lg",
+			".btn-sm",
+			".btn-xs",
+			".btn-block"
+		],
+		"answer": ".btn-sm"
+	},
+	{
+		"topicId": 4,
+		"topicName": "BOOTSTRAP",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Which of the following bootstrap styles are used to add a dropdown to a tab?",
+		"options": [
+			".nav, .nav-tabs, .menu",
+			".nav, .nav-tabs, dropdown-.menu",
+			".nav, .nav-pills, .dropdown",
+			".nav, .nav-pills"
+		],
+		"answer": ".nav, .nav-tabs, dropdown-.menu"
+	},
+	{
+		"topicId": 4,
+		"topicName": "BOOTSTRAP",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Which of the following bootstrap style can be used to to get different size items of .pagination?",
+		"options": [
+			".lg, .sm",
+			".menu-lg, .menu-sm",
+			" None",
+			".pagination-lg, .pagination-sm"
+		],
+		"answer": ".pagination-lg, .pagination-sm"
+	},
+	{
+		"topicId": 5,
+		"topicName": "ANGULAR",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Which of the following is correct about Angular 2 Components?",
+		"options": [
+			"AngularJS had a focus of Controllers but Angular 2 has changed the focus to having components over controllers.",
+			"Components help to build the applications into many modules.",
+			"This helps in better maintaining the application over a period of time.",
+			"All of the above."
+		],
+		"answer": "All of the above."
+	},
+	{
+		"topicId": 5,
+		"topicName": "ANGULAR",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Which of the following is true?",
+		"options": [
+			"Angular 2 Modules are used to create components which can be shared across the entire application.",
+			"Angular 2 Metadata is used to create components which can be shared across the entire application.",
+			"Angular 2 Services are used to create components which can be shared across the entire application.",
+			"None of the above."
+		],
+		"answer": "Angular 2 Services are used to create components which can be shared across the entire application."
+	},
+	{
+		"topicId": 5,
+		"topicName": "ANGULAR",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following is correct about Export Array in Angular 2 Modules?",
+		"options": [
+			"This is used to export components, directives, and pipes which can then be used in other modules.",
+			"This is used to export services which can then be used in other services.",
+			"Both of the above",
+			"None of the above"
+		],
+		"answer": "This is used to export components, directives, and pipes which can then be used in other modules."
+	},
+	{
+		"topicId": 5,
+		"topicName": "ANGULAR",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Which of the following is correct about Angular 2 Routing?",
+		"options": [
+			"Based on the option they choose, the required Angular Component will be rendered to the user.",
+			"Routing helps in directing users to different pages based on the option they choose on the main page.",
+			"Both of the above",
+			"None of the above"
+		],
+		"answer": "Both of the above"
+	},
+	{
+		"topicId": 5,
+		"topicName": "ANGULAR",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": " Which of the following is correct about package.json?",
+		"options": [
+			"There are two types of dependencies, first is the dependencies and then there are dev dependencies.",
+			"The dev ones are required during the development process and the others are needed to run the application.",
+			"Both of the above",
+			"None of the above"
+		],
+		"answer": "Both of the above"
+	},
+	{
+		"topicId": 6,
+		"topicName": "NODE.JS",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Which of following command starts a REPL session?",
+		"options": [
+			"node",
+			"node start",
+			"node repl",
+			"node console"
+		],
+		"answer": "node"
+	},
+	{
+		"topicId": 6,
+		"topicName": "NODE.JS",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Which of the following is true about package.json?",
+		"options": [
+			"package.json is present in the root directory of any Node application/module.",
+			"package.json is used to define the properties of a package.",
+			"package.json can be used to update dependencies of a Node application.",
+			"All of the above."
+		],
+		"answer": "All of the above."
+	},
+	{
+		"topicId": 6,
+		"topicName": "NODE.JS",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following is true about EventEmitter.emit property?",
+		"options": [
+			"emit property is used to locate an event handler.",
+			"emit property is used to bind a function with the event.",
+			"emit property is used to fire an event.",
+			"None of the above"
+		],
+		"answer": "emit property is used to fire an event."
+	},
+	{
+		"topicId": 6,
+		"topicName": "NODE.JS",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Which of the following is true about Chaining streams?",
+		"options": [
+			"Chanining is a mechanism to connect output of one stream to another stream and create a chain of multiple stream operations.",
+			"Chanining is normally used with piping operations.",
+			"Both of the above",
+			"None of the above"
+		],
+		"answer": "Both of the above"
+	},
+	{
+		"topicId": 6,
+		"topicName": "NODE.JS",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Which of the following module is required for exception handling in Node?",
+		"options": [
+			"web",
+			"net",
+			"domain",
+			"error"
+		],
+		"answer": "domain"
+	},
+	{
+		"topicId": 7,
+		"topicName": "REACT.JS",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "ReactJS is developed by _____?",
+		"options": [
+			"Google",
+			"Facebook",
+			"Microsoft",
+			"Oracle"
+		],
+		"answer": "Facebook"
+	},
+	{
+		"topicId": 7,
+		"topicName": "REACT.JS",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "ReactJS is an MVC based framework?",
+		"options": [
+			"True",
+			"False",
+			"XXX",
+			"XXX"
+		],
+		"answer": ""
+	},
+	{
+		"topicId": 7,
+		"topicName": "REACT.JS",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following concepts is/are key to ReactJS?",
+		"options": [
+			"Component-oriented design",
+			"Event delegation model",
+			"Both of the above",
+			"None of the above"
+		],
+		"answer": "Both of the above"
+	},
+	{
+		"topicId": 7,
+		"topicName": "REACT.JS",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "ReactJS focuses on which of the following part when considering MVC?",
+		"options": [
+			"M (Model)",
+			"V (View)",
+			"C (Controller)",
+			"None of the above"
+		],
+		"answer": "V (View)"
+	},
+	{
+		"topicId": 7,
+		"topicName": "REACT.JS",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Which of the following API is a MUST for every ReactJS component?",
+		"options": [
+			"getInitialState",
+			"render",
+			"renderComponent",
+			"All of the above"
+		],
+		"answer": "render"
+	},
+	{
+		"topicId": 8,
+		"topicName": "ANGULAR.JS",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Which of the following is true about AngularJS expressions?",
+		"options": [
+			"Expressions are used to bind application data to html.",
+			"Expressions are written inside double braces like {{ expression}}.",
+			"Expressions behave in same way as ng-bind directives.",
+			"All of the above."
+		],
+		"answer": "All of the above."
+	},
+	{
+		"topicId": 8,
+		"topicName": "ANGULAR.JS",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "What is controller in MVC?",
+		"options": [
+			"It is a software Code that stores the data.",
+			"It is a software Code that renders the user interface.",
+			"It is a software Code that controls the interactions between the Model and View.",
+			"None of the above."
+		],
+		"answer": "It is a software Code that controls the interactions between the Model and View."
+	},
+	{
+		"topicId": 8,
+		"topicName": "ANGULAR.JS",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following is true about $dirty flag?",
+		"options": [
+			"$dirty flag states that value has been changed.",
+			"$dirty flag states that form has invalid data.",
+			"Both of the above.",
+			"None of the above."
+		],
+		"answer": "$dirty flag states that value has been changed."
+	},
+	{
+		"topicId": 8,
+		"topicName": "ANGULAR.JS",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Is AngularJS extensible?",
+		"options": [
+			"True",
+			"False",
+			"XXX",
+			"XXX"
+		],
+		"answer": "True"
+	},
+	{
+		"topicId": 8,
+		"topicName": "ANGULAR.JS",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "ng-app directive defines and links an AngularJS application to HTML.",
+		"options": [
+			"True",
+			"False",
+			"XXX",
+			"XXX"
+		],
+		"answer": "True"
+	},
+	{
+		"topicId": 9,
+		"topicName": "TYPESCRIPT",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "What is extension for typescript file?",
+		"options": [
+			"abc.js",
+			"abc.ts",
+			"abc.tsc",
+			"none of the above"
+		],
+		"answer": "abc.ts"
+	},
+	{
+		"topicId": 9,
+		"topicName": "TYPESCRIPT",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Typescript is ___________ of JavaScript",
+		"options": [
+			"subset",
+			"superset",
+			"both",
+			"none"
+		],
+		"answer": "superset"
+	},
+	{
+		"topicId": 9,
+		"topicName": "TYPESCRIPT",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Typescript is developed under",
+		"options": [
+			"Google",
+			"Facebook",
+			"Microsoft",
+			"Oracle"
+		],
+		"answer": "Microsoft"
+	},
+	{
+		"topicId": 9,
+		"topicName": "TYPESCRIPT",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Typescript is a ________ language",
+		"options": [
+			"open source",
+			"closed",
+			"free",
+			"a & c"
+		],
+		"answer": "open source"
+	},
+	{
+		"topicId": 9,
+		"topicName": "TYPESCRIPT",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Typescript provides type checking at ",
+		"options": [
+			"run time",
+			"compile time",
+			"load time",
+			"none of the above"
+		],
+		"answer": "compile time"
+	},
+		{
+		"topicId": 10,
+		"topicName": "JQUERY",
+		"category": "intermediate",
+		"questionId": 1,
+		"question": "Which built-in method removes the last element from an array and returns that element?",
+		"options": [
+			"last()",
+			"get()",
+			"pop()",
+			"None of the above"
+		],
+		"answer": "pop()"
+	},
+		{
+		"topicId": 10,
+		"topicName": "JQUERY",
+		"category": "intermediate",
+		"questionId": 2,
+		"question": "Which of the following is correct about jQuery?",
+		"options": [
+			"The jQuery is very lightweight library - about 19KB in size ( Minified and gzipped ).",
+			"The jQuery has cross-browser support, and works well in IE 6.0+, FF 2.0+, Safari 3.0+, Chrome and Opera 9.0+",
+			"The jQuery supports CSS3 selectors and basic XPath syntax.",
+			"All of the above."
+		],
+		"answer": "All of the above."
+	},
+		{
+		"topicId": 10,
+		"topicName": "JQUERY",
+		"category": "intermediate",
+		"questionId": 3,
+		"question": "Which of the following jQuery selector selects elements with the given element tag-name?",
+		"options": [
+			"$('tag-name')",
+			"$('#tag-name')",
+			"$('.tag-name')",
+			"None of the above."
+		],
+		"answer": "$('tag-name')"
+	},
+		{
+		"topicId": 10,
+		"topicName": "JQUERY",
+		"category": "intermediate",
+		"questionId": 4,
+		"question": "Which of the following jQuery method remove all or the specified class(es) from the set of matched elements?",
+		"options": [
+			"removeClass( class )",
+			"removeStyleClass( class )",
+			"removeCSSClass( class )",
+			"None of the above"
+		],
+		"answer": "removeClass( class )"
+	},
+		{
+		"topicId": 10,
+		"topicName": "JQUERY",
+		"category": "intermediate",
+		"questionId": 5,
+		"question": "Which of the following jQuery method filter out elements from a set of matched elements?",
+		"options": [
+			"filter( selector )",
+			"setFilter( selector )",
+			"putFilter( selector )",
+			"None of the above."
+		],
+		"answer": "filter( selector )"
+	}
+
+]
